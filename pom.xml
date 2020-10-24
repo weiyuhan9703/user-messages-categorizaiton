@@ -37,7 +37,7 @@
             <artifactId>ir_utils</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/ir_utils-1.0.jar</systemPath>
+            <systemPath>lib/ir_utils--1.0.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
