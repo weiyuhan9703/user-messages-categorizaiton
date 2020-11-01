@@ -27,3 +27,4 @@ public class OverlapBigramPrevSystemMessage implements MessageMeasure {
     }
 
 }
+
