@@ -35,3 +35,4 @@ public class NumMessages implements SessionMeasure {
     }
 
 }
+
