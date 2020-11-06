@@ -9,3 +9,4 @@ public interface RoundMeasure {
     Double value( Session s, int round );
 
 }
+

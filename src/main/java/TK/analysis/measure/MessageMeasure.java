@@ -9,3 +9,4 @@ public interface MessageMeasure {
     Double value( Message m );
 
 }
+

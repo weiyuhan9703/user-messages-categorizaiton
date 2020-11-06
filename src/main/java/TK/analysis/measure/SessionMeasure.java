@@ -9,3 +9,4 @@ public interface SessionMeasure {
     Double value( Session s );
 
 }
+
